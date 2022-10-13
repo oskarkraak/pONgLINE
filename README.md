@@ -2,7 +2,7 @@
 An online multiplayer pong game.
 
 # Download:
-https://oskarkraak.com/download/pONgLINE-v1.0.jar
+https://github.com/oskarkraak/pONgLINE/releases/download/v1.0/pONgLINE-v1.0.jar
 
 # Game:
 Control your paddle using w/d or up/down. The host can reset the ball by pressing esc.
